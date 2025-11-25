@@ -1,3 +1,6 @@
+[Home](../README.md) • [Projects](./) • [About](../README.md#about-me)
+
+
 # Multi-Area OSPF & EIGRP Routing Lab
 
 ## 📝 Overview
