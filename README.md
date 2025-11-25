@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Franciszek Gbur  
+#  Hi, I'm Franciszek Gbur  
 ### Networking & Cybersecurity Student • Hands-On Labs • IT Infrastructure • Automation
 
 I'm a networking and cybersecurity student with real practical experience designing, configuring, and troubleshooting Cisco networks and Windows Server environments.  
