@@ -1,4 +1,4 @@
-[Home](../) • [Projects](projects/)  • [Contact](#contact)
+[Home](README.md) • [Projects](projects/)  • [Contact](#contact)
 
 ## 🧑‍💻 About Me
 #  Hi, I'm Franciszek Gbur  
