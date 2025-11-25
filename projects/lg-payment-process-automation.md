@@ -1,3 +1,6 @@
+[Home](../README.md) • [Projects](./) • [About](../README.md#about-me)
+
+
 # LG Payment Process Automation Project  
 ### LG Energy Solution — Biskupice Podgórne, Poland (2018)
 
