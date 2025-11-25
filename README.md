@@ -1,3 +1,6 @@
+[Home](../) • [Projects](projects/) • [About](#about-me) • [Contact](#contact)
+
+
 #  Hi, I'm Franciszek Gbur  
 ### Networking & Cybersecurity Student • Hands-On Labs • IT Infrastructure • Automation
 
