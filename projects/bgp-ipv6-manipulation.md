@@ -1,3 +1,6 @@
+[Home](../README.md) • [Projects](./) • [About](../README.md#about-me)
+
+
 # BGP IPv6 Path Manipulation Lab
 
 ## 📝 Overview
